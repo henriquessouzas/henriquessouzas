@@ -80,6 +80,16 @@ hobbies:   Jogos · D&D · Manhwas · Mangás · Fantasia 🎲
   <sub>© 2025 <a href="https://github.com/henriquessouzas">Henrique Souza</a> · Última atualização: 2025</sub>
 </div>
 
+---
+
+<div align="center">
+  <p>Obrigado por visitar meu perfil! Se quiser trocar uma ideia ou colaborar em algum projeto, fique à vontade para me chamar. 🚀</p>
+</div>
+
+<div align="center">
+  <img src="./img/henrique banner.png" alt="Henrique Banner" width="100%"/>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6A0DAD&section=footer"/>
 </div>
